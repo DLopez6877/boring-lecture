@@ -30,3 +30,7 @@ img.intro {
   font-size: 1.3em;
   padding-left: 30px;
 }
+
+.initially-hidden {
+  display: none;
+}
