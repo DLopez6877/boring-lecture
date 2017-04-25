@@ -31,6 +31,14 @@ img.intro {
   padding-left: 30px;
 }
 
-.initially-hidden {
+.hidden {
   display: none;
+}
+
+.grey {
+  background-color: #ddd;
+}
+
+.green {
+  background-color: #afa;
 }

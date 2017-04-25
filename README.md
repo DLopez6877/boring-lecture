@@ -25,6 +25,8 @@ _DLopez6877.github.io/boring-lecture_
 
 * HTML
 * CSS
+* JavaScript
+* Bootstrap
 
 ### License
 
